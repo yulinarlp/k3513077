@@ -1,0 +1,22 @@
+Mungkin bisa membantu.
+Para shortcut blender :
+.e : menambah panjang pada sisi tertentu
+.s+z : memipihkan
+.s : size
+.g : memindahkan
+.r : rotate
+.ctrl : kanan kiri
+.z : naik turun
+.y : maju mundur
+.tab : mengubah objec mode menjadi edit mode
+.ctrl+0 : view camera
+.ctrl+r : memotong
+.ctrl+j : menggabungkan objek
+.n : memunculkan insert image & menutup
+.t : tutup ato menonjolkan
+.1 : front
+.2 : user
+.3 : right
+.c : selec lingkaran
+.b : selec blok
+.f : menghubungkan
